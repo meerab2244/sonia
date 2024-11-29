@@ -97,3 +97,13 @@ background-color: #f1efef;
     color: #e4e2e2;
 }
 
+.na-link{
+    color: wheat;
+}
+.na-link:hover{
+    background-color: white;
+    color: white;
+}
+.a{
+    color: rgb(218, 213, 213);
+}
